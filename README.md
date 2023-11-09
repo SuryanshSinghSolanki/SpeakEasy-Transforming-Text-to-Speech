@@ -2,17 +2,17 @@
 This web application is a Text-to-Speech (TTS) tool that allows users to convert text into speech using machine learning models. It utilizes Torchaudio and Streamlit to create a user-friendly interface for generating and playing audio from text.
 
 Table of Contents
-*Getting Started
-*Prerequisites
-*Installation
-*Usage
-*Running the Application
-*File Structure
-*Customization
-*Contributing
-*License
-*Getting Started
-*Prerequisites
+*Getting Started <br>
+*Prerequisites <br>
+*Installation <br>
+*Usage <br>
+*Running the Application <br>
+*File Structure <br>
+*Customization <br>
+*Contributing <br>
+*License <br>
+*Getting Started <br>
+*Prerequisites <br>
 Before you can run this application, ensure you have the following prerequisites installed:
 
 Python 3.x
