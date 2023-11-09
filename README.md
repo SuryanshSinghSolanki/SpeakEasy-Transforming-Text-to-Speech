@@ -1,19 +1,18 @@
 # SpeakEasy-Transforming-Text-to-Speech
-Text-to-Speech (TTS) Web Application
 This web application is a Text-to-Speech (TTS) tool that allows users to convert text into speech using machine learning models. It utilizes Torchaudio and Streamlit to create a user-friendly interface for generating and playing audio from text.
 
 Table of Contents
-Getting Started
-Prerequisites
-Installation
-Usage
-Running the Application
-File Structure
-Customization
-Contributing
-License
-Getting Started
-Prerequisites
+*Getting Started
+*Prerequisites
+*Installation
+*Usage
+*Running the Application
+*File Structure
+*Customization
+*Contributing
+*License
+*Getting Started
+*Prerequisites
 Before you can run this application, ensure you have the following prerequisites installed:
 
 Python 3.x
