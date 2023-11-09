@@ -23,7 +23,7 @@ Clone this repository to your local machine: <br>
 <br>
 bash <br>
 Copy code <br>
-git clone https://github.com/your-username/text-to-speech-app.git <br>
+git clone [https://github.com/your-username/text-to-speech-app.git](https://github.com/SuryanshSinghSolanki/SpeakEasy-Transforming-Text-to-Speech.git) <br>
 Navigate to the project directory: <br>
  <br>
 bash <br>
