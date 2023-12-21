@@ -33,7 +33,6 @@ Install the required Python packages: <br>
 <br>
 bash <br>
 Copy code <br>
-pip install -r requirements.txt <br>
 Usage <br>
 Running the Application <br>
 To run the Text-to-Speech application, follow these steps: <br>
@@ -60,5 +59,3 @@ Integrate additional TTS models or improve the existing one.<br>
 Enhance error handling and user feedback.<br>
 Contributing<br>
 Contributions are welcome! If you have ideas, improvements, or bug fixes, please submit a pull request. Make sure to follow the contribution guidelines.<br>
-
-For any queries mail me: suryanshsolanki10@gmail.com
